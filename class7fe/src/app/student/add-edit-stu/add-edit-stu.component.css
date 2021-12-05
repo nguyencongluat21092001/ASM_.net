@@ -1,0 +1,7 @@
+.form-create {
+  margin: 20px 0;
+  border: 1px solid red;
+}
+.form-create form {
+  padding: 20px;
+}
